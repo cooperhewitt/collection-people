@@ -7,7 +7,7 @@ concordances.csv
 These are [people who've had a hand in the Cooper Hewitt collection](http://collection.cooperhewitt.org/people/) who we _think_
 we know about at another institution or in another database of people. **As of
 this writing there are some mistakes in this list** but it's mostly correct and
-a valuable resource and a step, however, in the right direction.
+a valuable resource and a step, however small, in the right direction.
 
 _This list was generated using some pretty naive code that really only concerned
 itself with names and concordances that could be inferred with the simplest of
