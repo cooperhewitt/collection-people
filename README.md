@@ -1,8 +1,8 @@
 collection-people
---
+==
 
 concordances.csv
-==
+--
 
 These are people who've had a hand in the Cooper Hewitt collection who we _think_
 we know about at another institution or in another database of people.
