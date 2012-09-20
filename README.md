@@ -25,7 +25,8 @@ six other sources. They are:
 * [Freebase](http://www.freebase.com/)
 
 Concordances are listed under the `freebase:id` column. For example
-(ch:id=18536279)[http://collection.cooperhewitt.org/people/18536279/] is also (freebase:id=m/01hlzm)[http://www.freebase.com/m/01hlzm]
+[ch:id=18536279](http://collection.cooperhewitt.org/people/18536279/] is the
+same as [freebase:id=m/01hlzm](http://www.freebase.com/m/01hlzm)
 
 * [Wikipedia](http://www.wikipedia.org/)
 
