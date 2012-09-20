@@ -25,27 +25,35 @@ six other sources. They are:
 * [Freebase](http://www.freebase.com/)
 
 Concordances are listed under the `freebase:id` column. For example
-[ch:id=18536279](http://collection.cooperhewitt.org/people/18536279/) is thesame as [freebase:id=m/01hlzm](http://www.freebase.com/m/01hlzm)
+[ch:id=18536279](http://collection.cooperhewitt.org/people/18536279/) is the same as [freebase:id=m/01hlzm](http://www.freebase.com/m/01hlzm)
 
 * [Wikipedia](http://www.wikipedia.org/)
 
 `wikipedia:id`
 
+Concordances are listed under the `wikipedia:id` column. For example
+[ch:id=18042217](http://collection.cooperhewitt.org/people/18042217/) is the same as [wikipedia:id=908990](http://en.wikipedia.org/wiki/index.html?curid=908990)
+
 * [Virtual Internet Authority File (VIAF)](http://viaf.org/)
 
-`viaf:id`
+Concordances are listed under the `viaf:id` column. For example
+[ch:id=18042217](http://collection.cooperhewitt.org/people/18535633/) is the same as [viaf:id=103648062](http://viaf.org/viaf/103648062/)
 
 * [Library of Congress Name Authority File](http://id.loc.gov)
 
-`lcnaf:id`
+Concordances are listed under the `lcnaf:id` column. For example
+[ch:id=18042217](http://collection.cooperhewitt.org/people/18049223/) is the same as [lcnaf:id=94029554](http://id.loc.gov/authorities/names/no94029554.html)
 
 * [Museum of Modern Art (MOMA)](http://www.moma.org/)
+
+Concordances are listed under the `moma:id` column. For example
+[ch:id=18055621](http://collection.cooperhewitt.org/people/18055621/) is the same as [moma:id=5392](http://www.moma.org/collection/artist.php?artist_id=5392)
 
 `moma:id`
 
 * [Indianapolist Museum of Art (IMA)](http://www.imamuseum.org/)
 
-`ima:id`
+Concordances are listed under the `ima:id` column are a bit trickier than the others.
 
 ...the Cooper-Hewitt [forked the IMA
 collection](https://github.com/cooperhewitt/ima-collection/tree/master/actors) ...
