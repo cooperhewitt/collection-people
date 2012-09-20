@@ -24,13 +24,14 @@ six other sources. They are:
 
 * [Freebase](http://www.freebase.com/)
 
-`freebase:id`
+Concordances are listed under the `freebase:id` column. For example
+(ch:id=18536279)[http://collection.cooperhewitt.org/people/18536279/] is also (freebase:id=m/01hlzm)[http://www.freebase.com/m/01hlzm]
 
 * [Wikipedia](http://www.wikipedia.org/)
 
 `wikipedia:id`
 
-* [Virtual Internet Authority File](http://viaf.org/) (VIAF)
+* [Virtual Internet Authority File (VIAF)](http://viaf.org/)
 
 `viaf:id`
 
@@ -38,11 +39,11 @@ six other sources. They are:
 
 `lcnaf:id`
 
-* [Museum of Modern Art](http://www.moma.org/) (MOMA)
+* [Museum of Modern Art (MOMA)](http://www.moma.org/)
 
 `moma:id`
 
-* [Indianapolist Museum of Art](http://www.imamuseum.org/) (IMA)
+* [Indianapolist Museum of Art (IMA)](http://www.imamuseum.org/)
 
 `ima:id`
 
