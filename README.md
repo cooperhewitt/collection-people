@@ -28,29 +28,34 @@ six other sources. They are:
 Concordances are listed under the `freebase:id` column. For example
 [ch:id=18536279](http://collection.cooperhewitt.org/people/18536279/) is the same as [freebase:id=m/01hlzm](http://www.freebase.com/m/01hlzm)
 
-* [Wikipedia](http://www.wikipedia.org/)
+[Wikipedia](http://www.wikipedia.org/)
+---
 
 `wikipedia:id`
 
 Concordances are listed under the `wikipedia:id` column. For example
 [ch:id=18042217](http://collection.cooperhewitt.org/people/18042217/) is the same as [wikipedia:id=908990](http://en.wikipedia.org/wiki/index.html?curid=908990)
 
-* [Virtual Internet Authority File (VIAF)](http://viaf.org/)
+[Virtual Internet Authority File (VIAF)](http://viaf.org/)
+---
 
 Concordances are listed under the `viaf:id` column. For example
 [ch:id=18042217](http://collection.cooperhewitt.org/people/18535633/) is the same as [viaf:id=103648062](http://viaf.org/viaf/103648062/)
 
-* [Library of Congress Name Authority File](http://id.loc.gov)
+[Library of Congress Name Authority File](http://id.loc.gov)
+---
 
 Concordances are listed under the `lcnaf:id` column. For example
 [ch:id=18042217](http://collection.cooperhewitt.org/people/18049223/) is the same as [lcnaf:id=94029554](http://id.loc.gov/authorities/names/no94029554.html)
 
-* [Museum of Modern Art (MOMA)](http://www.moma.org/)
+[Museum of Modern Art (MOMA)](http://www.moma.org/)
+---
 
 Concordances are listed under the `moma:id` column. For example
 [ch:id=18055621](http://collection.cooperhewitt.org/people/18055621/) is the same as [moma:id=5392](http://www.moma.org/collection/artist.php?artist_id=5392)
 
-* [Indianapolist Museum of Art (IMA)](http://www.imamuseum.org/)
+[Indianapolist Museum of Art (IMA)](http://www.imamuseum.org/)
+---
 
 Concordances are listed under the `ima:id` column are a bit trickier than the
 others. Specifically the IMA doesn't (yet) have public identifiers for the
@@ -60,8 +65,14 @@ The Cooper-Hewitt [forked the IMA's public collection metadata and extracted all
 the actors](https://github.com/cooperhewitt/ima-collection/tree/master/actors)
 creating discrete records, and identifiers, for each one along the way.
 
-https://github.com/IMAmuseum/ima-collection/pull/2
+These are the identifiers listed in the `concordances.csv` document. They will
+almost certainly change. A [pull request with the newly minted
+identifiers](https://github.com/IMAmuseum/ima-collection/pull/2) was sent to the
+IMA but they will probably roll their own identifiers in the future as time and
+circumstances permit.
 
-If you look carefully at our collections website you may notice that we also
-claim to have concordances with the [Powerhouse Museum]() in Sydney and the
-[Victoria and Albert Museum]() in London.
+_If you look carefully at our collections website you may notice that we also
+claim to have concordances with the [Powerhouse Museum](http://www.powerhousemuseum.com/) in Sydney and the
+[Victoria and Albert Museum](http://www.vam.ac.uk/) in London. They are not included here because
+like the IMA they do not have public identifiers (and we haven't made any for
+them yet ;-)_
