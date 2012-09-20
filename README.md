@@ -49,14 +49,15 @@ Concordances are listed under the `lcnaf:id` column. For example
 Concordances are listed under the `moma:id` column. For example
 [ch:id=18055621](http://collection.cooperhewitt.org/people/18055621/) is the same as [moma:id=5392](http://www.moma.org/collection/artist.php?artist_id=5392)
 
-`moma:id`
-
 * [Indianapolist Museum of Art (IMA)](http://www.imamuseum.org/)
 
-Concordances are listed under the `ima:id` column are a bit trickier than the others.
+Concordances are listed under the `ima:id` column are a bit trickier than the
+others. Specifically the IMA doesn't (yet) have public identifiers for the
+people (called "actors" in IMA-speak) in their collection.
 
-...the Cooper-Hewitt [forked the IMA
-collection](https://github.com/cooperhewitt/ima-collection/tree/master/actors) ...
+The Cooper-Hewitt [forked the IMA's public collection metadata and extracted all
+the actors](https://github.com/cooperhewitt/ima-collection/tree/master/actors)
+creating discrete records, and identifiers, for each one along the way.
 
 https://github.com/IMAmuseum/ima-collection/pull/2
 
