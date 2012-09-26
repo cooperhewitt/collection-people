@@ -31,8 +31,6 @@ Concordances are listed under the `freebase:id` column. For example
 [Wikipedia](http://www.wikipedia.org/)
 ---
 
-`wikipedia:id`
-
 Concordances are listed under the `wikipedia:id` column. For example
 [ch:id=18042217](http://collection.cooperhewitt.org/people/18042217/) is the same as [wikipedia:id=908990](http://en.wikipedia.org/wiki/index.html?curid=908990)
 
