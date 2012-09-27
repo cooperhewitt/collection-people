@@ -74,3 +74,9 @@ claim to have concordances with the [Powerhouse Museum](http://www.powerhousemus
 [Victoria and Albert Museum](http://www.vam.ac.uk/) in London. They are not included here because
 like the IMA they do not have public identifiers (and we haven't made any for
 them yet ;-)_
+
+See also
+--
+
+* [Cooper-Hewitt National Design Museum Collections website](http://collection.cooperhewitt.org/)
+
