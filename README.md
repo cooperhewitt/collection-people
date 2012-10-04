@@ -80,3 +80,5 @@ See also
 
 * [Cooper-Hewitt National Design Museum Collections website](http://collection.cooperhewitt.org/)
 
+* [Citizen Curation of Smithsonian Metadata](http://tfmorris.blogspot.com/2012/10/citizen-curation-of-smithsonian-metadata.html), by Tom Morris
+
