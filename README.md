@@ -11,8 +11,8 @@ a valuable resource and a step, however small, in the right direction.
 
 _This list was generated using some pretty naive code that really only concerned
 itself with names and concordances that could be inferred with the simplest of
-rulesets. There is lots of work to be done here but we opted for doing the easy
-thing first in the service of our collections website so as not to get stuck in
+rulesets. There is lots of work to be done here but [we opted for doing the easy
+thing first](https://github.com/cooperhewitt/collection-people/issues/1#issuecomment-9157141) in the service of our collections website so as not to get stuck in
 the quicksand of edge cases._
 
 Our hope is that people will use these concordances with their own datasets,
