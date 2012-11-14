@@ -20,8 +20,8 @@ a valuable resource and a step, however small, in the right direction.
 
 _This list was generated using some pretty naive code that really only concerned
 itself with names and concordances that could be inferred with the simplest of
-rulesets. There is lots of work to be done here but we opted for doing the easy
-thing first in the service of our collections website so as not to get stuck in
+rulesets. There is lots of work to be done here but [we opted for doing the easy
+thing first](https://github.com/cooperhewitt/collection-people/issues/1#issuecomment-9157141) in the service of our collections website so as not to get stuck in
 the quicksand of edge cases._
 
 Our hope is that people will use these concordances with their own datasets,
@@ -39,8 +39,6 @@ Concordances are listed under the `freebase:id` column. For example
 
 [Wikipedia](http://www.wikipedia.org/)
 ---
-
-`wikipedia:id`
 
 Concordances are listed under the `wikipedia:id` column. For example
 [ch:id=18042217](http://collection.cooperhewitt.org/people/18042217/) is the same as [wikipedia:id=908990](http://en.wikipedia.org/wiki/index.html?curid=908990)
@@ -85,3 +83,11 @@ claim to have concordances with the [Powerhouse Museum](http://www.powerhousemus
 [Victoria and Albert Museum](http://www.vam.ac.uk/) in London. They are not included here because
 like the IMA they do not have public identifiers (and we haven't made any for
 them yet ;-)_
+
+See also
+--
+
+* [Cooper-Hewitt National Design Museum Collections website](http://collection.cooperhewitt.org/)
+
+* [Citizen Curation of Smithsonian Metadata](http://tfmorris.blogspot.com/2012/10/citizen-curation-of-smithsonian-metadata.html), by Tom Morris
+
