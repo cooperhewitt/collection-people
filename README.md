@@ -1,6 +1,15 @@
 collection-people
 ==
 
+**THIS REPOSITORY IS OFFICIALLY DEPRECATED. INFORMATION ABOUT THE PEOPLE
+  INVOLVED IN THE COOPER-HEWITT COLLECTION IS NOW AVAILABLE AS PART OF THE MAIN
+  [collection](https://github.com/cooperhewitt/collection) REPOSITORY. DETAILED
+  INFORMATION ABOUT PEOPLE CAN BE FOUND IN THE
+  [collection/people](https://github.com/cooperhewitt/collection/tree/master/people)
+  DIRECTORY BRANCH AND THE [collection/meta-*.csv files](https://github.com/cooperhewitt/collection/tree/master/meta).**
+
+We apologize for any confusion (straup/20121114)
+
 concordances.csv
 --
 
